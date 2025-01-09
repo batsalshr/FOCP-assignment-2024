@@ -1,0 +1,125 @@
+{
+    "college": [
+        "The name of the college is The British College.",
+        "The British College is a premier institution for higher education in Nepal.",
+        "We aim to provide world-class education in the heart of Kathmandu."
+    ],
+    "hi": [
+        "Hello, How can I help you?",
+        "Welcome, How may I assist you today?",
+        "Hi there! Feel free to ask about our courses, facilities, or anything else.",
+        "Good day! Let me know how I can assist you."
+    ],
+    "principle": [
+        "The name of our Principal is Dr. Pattrick M.",
+        "Dr. Pattrick M is the visionary leader of The British College."
+    ],
+    "admission": [
+        "Admissions open in September. Visit our website for details.",
+        "Admission processes start in the second week of September. For further assistance, reach out to us!",
+        "Looking to join? Admissions are just around the corner!"
+    ],
+    "location": [
+        "Our college is located in Thapathali, Kathmandu, Nepal.",
+        "Find us at Thapathali, in the heart of Kathmandu.",
+        "We’re conveniently located in Thapathali, Kathmandu."
+    ],
+    "facilities": [
+        "We offer facilities like a modern library, VR room, sports, and a cafe.",
+        "Our college boasts cutting-edge facilities including a library, sports area, and tech-equipped rooms.",
+        "Students enjoy our library, VR lab, modern cafeteria, and recreational areas."
+    ],
+    "noreply": [
+        "Sorry, I am not trained for this.",
+        "Hey, I don’t have an answer for this.",
+        "Apologies, I currently don’t have the information you’re looking for.",
+        "I’m not sure how to answer that, but I’m here for other queries!"
+    ],
+    "Fee": [
+        "The fee structure depends on your chosen course and duration.",
+        "Our fee varies based on the program. Contact us for specific details.",
+        "Fees are course-specific. Visit our website for more information."
+    ],
+    "Course": [
+        "Courses include AI, Computing, Hotel Management, BBA, Cybersecurity, and more.",
+        "We offer a wide range of courses. Check our website for the full list.",
+        "Our curriculum includes courses in management, technology, and hospitality."
+    ],
+    "contact": [
+        "You can reach us at +977-1-5970003 or email info@thebritishcollege.edu.np.",
+        "For inquiries, call us at +977-1-5970003 or visit our website.",
+        "Feel free to contact us via our official channels listed on our website."
+    ],
+    "scholarship": [
+        "Scholarships are available for top-performing students and those in need.",
+        "We offer scholarships based on merit and financial need.",
+        "Apply for scholarships during the admission process to ease your educational expenses."
+    ],
+    "hostel": [
+        "Hostel facilities are available for students with modern amenities.",
+        "We provide safe and comfortable hostel accommodations. Contact us for details."
+    ],
+    "events": [
+        "We host exciting events like cultural fests, career fairs, and workshops.",
+        "From seminars to sports meets, our college organizes various student-centered events.",
+        "Participate in annual events like fests, competitions, and skill-development workshops."
+    ],
+    "placement": [
+        "Our dedicated placement cell connects students with reputed companies.",
+        "We help students secure internships and jobs through partnerships with global firms.",
+        "Placement support is provided for students to excel in their careers post-graduation."
+    ],
+    "library": [
+        "Our library features thousands of academic resources and digital learning tools.",
+        "Access a wide range of books, journals, and e-resources in our library.",
+        "Enjoy a quiet, resourceful library environment for your academic needs."
+    ],
+    "alumni": [
+        "Our alumni network spans across top industries and positions globally.",
+        "Stay connected with our successful alumni for networking and mentorship opportunities."
+    ],
+    "passout": [
+        "Our alumni network spans across top industries and positions globally.",
+        "Stay connected with our successful alumni for networking and mentorship opportunities."
+    ],
+    "extracurricular": [
+        "We encourage participation in sports, arts, and cultural activities.",
+        "Extracurricular activities include sports, debate clubs, and community service."
+    ],
+    "internship": [
+        "Internship opportunities are provided to give practical experience in your field.",
+        "Gain real-world experience with our well-structured internship programs."
+    ],
+    "transport": [
+        "We offer transportation facilities to and from the college.",
+        "Transportation services are available for students living farther away."
+    ],
+    "canteen": [
+        "Our canteen serves hygienic and affordable food options.",
+        "Enjoy a variety of snacks and meals at our college canteen."
+    ],
+    "sports": [
+        "Sports facilities include basketball, football, and indoor games.",
+        "We have a dedicated sports complex for recreational and competitive activities."
+    ],
+    "attendance": [
+        "A minimum of 75% attendance is required to appear in final exams.",
+        "Students are expected to maintain regular attendance to excel academically."
+    ],
+    "faculty": [
+        "Our faculty includes experienced professionals and academic experts.",
+        "Learn from highly qualified faculty with diverse expertise."
+    ],
+    "results": [
+        "Results are published on our website and notice boards.",
+        "You can check your exam results through the student portal."
+    ],
+    "schedule": [
+        "Class schedules are shared at the beginning of each semester.",
+        "You’ll receive your timetable via the student portal or notice board."
+    ],
+    "support": [
+        "Our student support team is here to assist with any issues.",
+        "Feel free to contact student support for guidance and assistance."
+    ]
+}

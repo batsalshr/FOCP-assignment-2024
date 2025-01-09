@@ -1,0 +1,154 @@
+2024-12-02 21:02:43,345 - Hi Batsal, I'm Roger, your assistant!
+2024-12-02 21:02:48,488 - Batsal: what is the weather
+2024-12-02 21:02:48,488 - Roger: Hmm, I am not sure about that. Can you try rephrasing it?
+2024-12-02 21:02:52,215 - Batsal: college
+2024-12-02 21:02:52,215 - Roger: Sorry, I am not trained for this.
+2024-12-02 21:02:56,809 - Batsal: college location
+2024-12-02 21:02:56,809 - Roger: Our college is located in Thapathali, Kathmandu, Nepal
+2024-12-02 21:03:00,520 - Batsal: college name
+2024-12-02 21:03:00,521 - Roger: The name of the college is The British College
+2024-12-02 21:03:04,969 - Batsal: where are you
+2024-12-02 21:03:04,969 - Roger: Hmm, I am not sure about that. Can you try rephrasing it?
+2024-12-02 21:03:05,975 - Batsal: end
+2024-12-02 21:03:05,975 - Roger: I don't have an answer for this.
+2024-12-02 21:03:09,548 - Batsal: quit
+2024-12-02 21:03:10,775 - Batsal decided to exit.
+2024-12-02 21:03:10,776 - Roger: Goodbye, Batsal! Take care!
+2024-12-02 21:05:53,974 - Hi Batsal, I'm Ryan, your assistant!
+2024-12-02 21:06:40,928 - Hi batsal, I'm Jamie, your assistant!
+2024-12-02 21:07:03,066 - Hi batsal, I'm Denis, your assistant!
+2024-12-02 21:07:38,218 - Hi hello, I'm Jordan, your assistant!
+2024-12-02 21:07:41,629 - hello: batsal
+2024-12-02 21:07:41,630 - Jordan: Sorry, I am not trained for this.
+2024-12-02 21:07:45,393 - hello: my name is batsal
+2024-12-02 21:07:45,394 - Jordan: The name of the college is The British College
+2024-12-02 21:07:49,431 - hello: college
+2024-12-02 21:07:49,432 - Jordan: That's an interesting question! Let me get back to you on that.
+2024-12-02 21:07:51,168 - hello: my name
+2024-12-02 21:07:51,169 - Jordan: The name of the college is The British College
+2024-12-03 09:16:36,733 - Hi randi orten, I'm Denis, your assistant!
+2024-12-03 09:16:53,133 - randi orten: what's up
+2024-12-03 09:16:53,134 - Denis: Sorry, I am not trained for this.
+2024-12-04 07:38:48,315 - Hi hello, I'm Ryan, your assistant!
+2024-12-04 07:38:49,377 - hello: tbc
+2024-12-04 07:38:49,378 - Ryan: I don't have an answer for this.
+2024-12-04 07:38:52,390 - hello: college
+2024-12-04 07:38:52,390 - Ryan: Hmm, I am not sure about that. Can you try rephrasing it?
+2024-12-04 07:38:56,639 - hello: location
+2024-12-04 07:38:56,640 - Ryan: Our college is located in Thapathali, Kathmandu, Nepal
+2024-12-04 07:38:57,568 - hello: name
+2024-12-04 07:38:57,569 - Ryan: The name of the college is The British College
+2024-12-04 07:38:59,255 - hello: why
+2024-12-04 07:38:59,255 - Ryan: Hmm, I am not sure about that. Can you try rephrasing it?
+2024-12-04 07:39:01,124 - hello: huh
+2024-12-04 07:39:01,125 - Ryan: Sorry, I am not trained for this.
+2024-12-04 07:39:03,037 - hello: try
+2024-12-04 07:39:03,038 - Ryan: I don't have an answer for this.
+2024-12-04 07:39:03,038 - Ryan: Oops, I seem to have disconnected. One moment...
+2024-12-04 07:39:03,038 - Ryan: I'm back, hello! Let's continue.
+2024-12-04 07:39:06,390 - hello: bye
+2024-12-04 07:39:07,994 - hello decided to exit.
+2024-12-04 07:39:07,994 - Ryan: Goodbye, hello! Take care!
+2024-12-06 07:38:26,447 - Hi Batsal, I'm John, your assistant!
+2024-12-06 07:38:29,556 - Batsal: college
+2024-12-06 07:38:29,557 - John: The name of the college is The British College
+2024-12-06 07:38:32,162 - Batsal: what is college
+2024-12-06 07:38:32,162 - John: The name of the college is The British College
+2024-12-06 07:38:39,257 - Batsal: where is college location
+2024-12-06 07:38:39,258 - John: The name of the college is The British College
+2024-12-06 07:38:41,589 - Batsal: location
+2024-12-06 07:38:41,590 - John: Our college is located in Thapathali, Kathmandu, Nepal
+2024-12-06 07:38:48,477 - Batsal: is there a principle
+2024-12-06 07:38:48,478 - John: The name of our Principle is Dr Pattrick M
+2024-12-06 07:38:48,478 - John: Oops, I seem to have disconnected. One moment...
+2024-12-06 07:38:48,478 - John: I'm back, Batsal! Let's continue.
+2024-12-06 07:40:07,845 - Batsal: hi
+2024-12-06 07:40:07,845 - John: Hello, How can I help you
+2024-12-06 07:40:09,908 - Batsal: how are you
+2024-12-06 07:40:09,909 - John: Sorry {name} I am not trained for this
+2024-12-06 07:40:13,065 - Batsal: wow
+2024-12-06 07:40:13,066 - John: Sorry {name} I am not trained for this
+2024-12-06 07:40:15,573 - Batsal: my name
+2024-12-06 07:40:15,573 - John: Hey {name}, I dont have an answer for this
+2024-12-06 07:40:54,538 - Batsal: principle
+2024-12-06 07:40:54,539 - John: The name of our Principle is Dr Pattrick M
+2024-12-06 07:40:58,407 - Batsal: location
+2024-12-06 07:40:58,407 - John: Our college is located in Thapathali, Kathmandu, Nepal
+2024-12-06 07:40:59,897 - Batsal: where
+2024-12-06 07:40:59,897 - John: Hey {name}, I dont have an reply for this
+2024-12-06 07:41:01,023 - Batsal: no
+2024-12-06 07:41:01,024 - John: Sorry {name} I am not trained for this
+2024-12-06 07:41:05,372 - Batsal: i am sad
+2024-12-06 07:41:05,373 - John: Hey {name}, I dont have an answer for this
+2024-12-06 07:42:52,308 - Hi batsal, I'm Denis, your assistant!
+2024-12-06 07:42:53,824 - batsal: wow
+2024-12-06 07:42:53,825 - Denis: Sorry {user_name} I am not trained for this
+2024-12-06 07:42:55,878 - batsal: sorry
+2024-12-06 07:42:55,878 - Denis: Hey {user_name}, I dont have an answer for this
+2024-12-06 07:43:58,224 - batsal: 
+2024-12-06 07:43:58,225 - Denis: Hey {user_name}, I dont have an reply for this
+2024-12-06 07:45:08,856 - batsal: wow
+2024-12-06 07:45:08,857 - Denis: Hey {user_name}, I dont have an answer for this
+2024-12-06 07:45:17,081 - Hi hi, I'm Taylor, your assistant!
+2024-12-06 07:45:18,291 - hi: wow
+2024-12-06 07:45:18,291 - Taylor: Hey, I dont have an reply for this
+2024-12-06 07:45:21,766 - hi: ok
+2024-12-06 07:45:21,767 - Taylor: Hey, I dont have an answer for this
+2024-12-06 07:45:23,527 - hi: why
+2024-12-06 07:45:23,527 - Taylor: Sorry I am not trained for this
+2024-12-10 21:09:36,689 - Hi Batsal, I'm Alex, your assistant!
+2024-12-10 21:09:45,624 - Batsal: college
+2024-12-10 21:09:45,625 - Alex: The name of the college is The British College.
+2024-12-10 21:25:43,818 - Batsal: hi
+2024-12-10 21:25:43,820 - Alex: Good day! Let me know how I can assist you.
+2024-12-10 21:25:43,820 - Alex: Oops, I seem to have disconnected. One moment...
+2024-12-10 21:25:43,820 - Alex: I'm back, Batsal! Let's continue.
+2024-12-10 21:26:56,590 - Hi Simran, I'm Jordan, your assistant!
+2024-12-10 21:26:59,354 - Simran: hi
+2024-12-10 21:26:59,354 - Jordan: Good day! Let me know how I can assist you.
+2024-12-10 21:26:59,354 - Jordan: Oops, I seem to have disconnected. One moment...
+2024-12-10 21:26:59,354 - Jordan: I'm back, Simran! Let's continue.
+2024-12-10 21:27:02,535 - Simran: how are you
+2024-12-10 21:27:02,535 - Jordan: I’m not sure how to answer that, but I’m here for other queries!
+2024-12-10 21:27:08,331 - Simran: college name
+2024-12-10 21:27:08,332 - Jordan: The British College is a premier institution for higher education in Nepal.
+2024-12-10 21:27:14,318 - Simran: who is the principle
+2024-12-10 21:27:14,319 - Jordan: The name of our Principal is Dr. Pattrick M.
+2024-12-10 21:27:25,470 - Simran: how is the canteen
+2024-12-10 21:27:25,470 - Jordan: Enjoy a variety of snacks and meals at our college canteen.
+2024-12-10 21:28:02,783 - Simran: facilities
+2024-12-10 21:28:02,783 - Jordan: Students enjoy our library, VR lab, modern cafeteria, and recreational areas.
+2024-12-10 21:28:24,912 - Simran: hello
+2024-12-10 21:28:24,913 - Jordan: Apologies, I currently don’t have the information you’re looking for.
+2024-12-11 07:17:25,418 - Hi batsal, I'm Jimmy, your assistant!
+2024-12-11 07:17:27,338 - batsal: alumi
+2024-12-11 07:17:27,338 - Jimmy: Sorry, I am not trained for this.
+2024-12-11 07:17:30,653 - batsal: alumni
+2024-12-11 07:17:30,653 - Jimmy: Stay connected with our successful alumni for networking and mentorship opportunities.
+2024-12-11 07:17:30,653 - Jimmy: Oops, I seem to have disconnected. One moment...
+2024-12-11 07:17:30,653 - Jimmy: I'm back, batsal! Let's continue.
+2024-12-11 07:17:38,794 - batsal: passout
+2024-12-11 07:17:38,794 - Jimmy: Stay connected with our successful alumni for networking and mentorship opportunities.
+2024-12-14 08:18:39,359 - Hi Batsal, I'm Jimmy, your assistant!
+2024-12-14 08:18:43,466 - Batsal: how are  you
+2024-12-14 08:18:43,466 - Jimmy: Sorry, I am not trained for this.
+2024-12-14 08:18:48,843 - Batsal: what is college
+2024-12-14 08:18:48,843 - Jimmy: We aim to provide world-class education in the heart of Kathmandu.
+2024-12-14 08:18:54,094 - Batsal: college
+2024-12-14 08:18:54,095 - Jimmy: The name of the college is The British College.
+2024-12-14 08:18:58,068 - Batsal: location
+2024-12-14 08:18:58,068 - Jimmy: We’re conveniently located in Thapathali, Kathmandu.
+2024-12-14 08:19:01,479 - Batsal: principle
+2024-12-14 08:19:01,479 - Jimmy: The name of our Principal is Dr. Pattrick M.
+2024-12-14 08:19:09,003 - Batsal: admission
+2024-12-14 08:19:09,004 - Jimmy: Admissions open in September. Visit our website for details.
+2024-12-14 08:19:17,407 - Batsal: what are your facilities
+2024-12-14 08:19:17,407 - Jimmy: We offer facilities like a modern library, VR room, sports, and a cafe.
+2024-12-14 08:19:17,407 - Jimmy: Oops, I seem to have disconnected. One moment...
+2024-12-14 08:19:17,408 - Jimmy: I'm back, Batsal! Let's continue.
+2024-12-14 08:19:30,655 - Batsal: faciliites
+2024-12-14 08:19:30,655 - Jimmy: Sorry, I am not trained for this.
+2024-12-14 08:19:34,307 - Batsal: facilies
+2024-12-14 08:19:34,308 - Jimmy: I’m not sure how to answer that, but I’m here for other queries!
+2024-12-14 08:19:39,996 - Batsal: facilities
+2024-12-14 08:19:39,997 - Jimmy: Our college boasts cutting-edge facilities including a library, sports area, and tech-equipped rooms.
